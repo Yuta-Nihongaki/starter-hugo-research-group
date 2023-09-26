@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Nihongaki
-        Research Group
+        Nihongaki lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Nihongaki Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Nihongaki lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
